@@ -6,4 +6,4 @@ Top-Performing Categories: A deep-dive analysis shows that a small, specific seg
 Seasonal Sales Spikes: Time-series patterns reveal a consistent, predictable surge in transactions during specific periods, allowing the team to better plan inventory and server scaling ahead of time.
 
 Customer Retention Gap: While initial user acquisition numbers look strong, there is a sharp drop-off after the first purchase, showing a clear need for a post-purchase follow-up campaign to bring customers back.
-Live Tableau Dashboard:[https://public.tableau.com/authoring/ReadyNestRealStateAnalysis/Sheet3/Dashboard%201#2]
+Live Tableau Dashboard:[https://public.tableau.com/authoring/ReadyNestRealStateAnalysis/Dashboard1#1]
